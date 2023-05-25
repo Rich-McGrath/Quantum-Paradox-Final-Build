@@ -1,2 +1,2 @@
 # Quantum-Paradox-Final-Build
-The Executive Version of Quantum Paradox.
+The Exe Version of Quantum Paradox.
